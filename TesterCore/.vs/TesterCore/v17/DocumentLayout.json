@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Professor\\source\\repos\\TesterCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6230E5-BFA6-4F94-94CC-52B8FE5F33DE}|..\\TesterXUnit\\TesterXUnit.csproj|c:\\users\\professor\\source\\repos\\testerxunit\\contatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8CEEC3-8CA5-4E97-8816-EF8437CD7BB9}|TesterCore.csproj|c:\\users\\professor\\source\\repos\\testercore\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8CEEC3-8CA5-4E97-8816-EF8437CD7BB9}|TesterCore.csproj|solutionrelative:conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\source\\repos\\TesterCore\\Conta.cs",
+              "RelativeDocumentMoniker": "Conta.cs",
+              "ToolTip": "C:\\Users\\Professor\\source\\repos\\TesterCore\\Conta.cs",
+              "RelativeToolTip": "Conta.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:21:10.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaTests.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\source\\repos\\TesterXUnit\\ContaTests.cs",
+              "RelativeDocumentMoniker": "..\\TesterXUnit\\ContaTests.cs",
+              "ToolTip": "C:\\Users\\Professor\\source\\repos\\TesterXUnit\\ContaTests.cs",
+              "RelativeToolTip": "..\\TesterXUnit\\ContaTests.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:21:03.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

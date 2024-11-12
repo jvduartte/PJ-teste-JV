@@ -1,0 +1,11 @@
+C:\Users\Professor\source\repos\TesterCore\bin\Debug\net8.0\TesterCore.deps.json
+C:\Users\Professor\source\repos\TesterCore\bin\Debug\net8.0\TesterCore.dll
+C:\Users\Professor\source\repos\TesterCore\bin\Debug\net8.0\TesterCore.pdb
+C:\Users\Professor\source\repos\TesterCore\obj\Debug\net8.0\TesterCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor\source\repos\TesterCore\obj\Debug\net8.0\TesterCore.AssemblyInfoInputs.cache
+C:\Users\Professor\source\repos\TesterCore\obj\Debug\net8.0\TesterCore.AssemblyInfo.cs
+C:\Users\Professor\source\repos\TesterCore\obj\Debug\net8.0\TesterCore.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\TesterCore\obj\Debug\net8.0\TesterCore.dll
+C:\Users\Professor\source\repos\TesterCore\obj\Debug\net8.0\refint\TesterCore.dll
+C:\Users\Professor\source\repos\TesterCore\obj\Debug\net8.0\TesterCore.pdb
+C:\Users\Professor\source\repos\TesterCore\obj\Debug\net8.0\ref\TesterCore.dll
